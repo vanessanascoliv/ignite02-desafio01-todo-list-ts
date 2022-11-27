@@ -13,9 +13,10 @@
 </h3>
 
 # Sobre
-<h4 style="font-size:22px">Desafio lançado no primeiro módulo curso da trilha de ReactJS - Ignite da Rocketseat. Criamos o projeto com Vite e Typescript colocando em prática os conceitos de Estados, Imutabilidade do estado, Listas e chaves no ReactJS, Propriedades e Componentização.</h4> 
+<h4 style="font-size:22px">Desafio lançado no primeiro módulo da trilha de ReactJS - Ignite da Rocketseat. Criei o projeto com Vite e Typescript colocando em prática os conceitos de Estados, Imutabilidade do estado, Listas e chaves no ReactJS, Propriedades e Componentização.</h4> 
 <h4> Funcionalidades aplicadas:</h4> 
 <p>- Adicionar uma nova tarefa;</P>
+<p>- Marcar e desmarcar uma tarefa como concluída;</P>
 <p>- Remover uma tarefa da listagem;</P>
 <p>- Mostrar o progresso de conclusão das tarefas;</P>
 
@@ -23,12 +24,12 @@
 
 # Tecnologias
 <div display="flex" >
-<img  height="80" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+ <img  height="80" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
  <img height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
  <img  height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
  <img   height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
  <img   height="80" width="60" src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg"/>
-<img class="VPImage image-src" src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" data-v-f1569406=""/>
+ <img class="VPImage image-src" src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" data-v-f1569406=""/>
  </div>
 
 
