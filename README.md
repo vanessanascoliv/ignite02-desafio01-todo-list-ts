@@ -24,17 +24,18 @@
 
 # Tecnologias
 <div display="flex" >
- <img  height="80" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+ <img height="80" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
  <img height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
- <img  height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
- <img   height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
- <img   height="80" width="60" src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg"/>
- <img class="VPImage image-src" src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" data-v-f1569406=""/>
+ <img height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+ <img height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+ <img height="80" width="60" src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg"/>
+ <img height="80" width="60" class="VPImage image-src" src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" data-v-f1569406=""/>
  </div>
 
 
 # Layout 
-https://user-images.githubusercontent.com/28486438/204108059-f4e8970d-e4da-4498-bea4-eb8fe59cdacf.mp4
+https://user-images.githubusercontent.com/28486438/204115333-689626a5-3486-48d1-af37-8518ef1d1a2b.mp4
+
 
 
 
